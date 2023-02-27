@@ -1,0 +1,2 @@
+finalproject
+-DCATKIN_DEVEL_PREFIX=/home/karina/bayucaraka/devel -DCMAKE_INSTALL_PREFIX=/home/karina/bayucaraka/install -G Unix Makefiles
